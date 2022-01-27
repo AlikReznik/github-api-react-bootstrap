@@ -1,0 +1,29 @@
+.maxSize{
+  max-width: 8em;
+  margin-right: 0.2em;
+  /* max-height: 5em; */
+}
+.historyResize{
+  margin-bottom: 2em;
+}
+.searchbarResize{
+  margin-bottom: 0.2em;
+}
+.flexBox{
+  display: flex;
+  flex-direction: row-reverse;
+}
+.Row{
+  display: flex;
+  justify-content: space-between;
+}
+.btnSize{
+  width: 2.5em;
+  height: 2.5em;
+}
+.pointer {
+  cursor: pointer;
+}
+.col-gap {
+  column-gap: 2rem;
+}
