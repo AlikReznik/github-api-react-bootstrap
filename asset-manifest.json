@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/github-api-react-bootstrap/static/css/main.be6ebdaa.chunk.css",
+    "main.js": "/github-api-react-bootstrap/static/js/main.aa83db50.chunk.js",
+    "main.js.map": "/github-api-react-bootstrap/static/js/main.aa83db50.chunk.js.map",
+    "runtime-main.js": "/github-api-react-bootstrap/static/js/runtime-main.b38690ab.js",
+    "runtime-main.js.map": "/github-api-react-bootstrap/static/js/runtime-main.b38690ab.js.map",
+    "static/js/2.3227bd49.chunk.js": "/github-api-react-bootstrap/static/js/2.3227bd49.chunk.js",
+    "static/js/2.3227bd49.chunk.js.map": "/github-api-react-bootstrap/static/js/2.3227bd49.chunk.js.map",
+    "index.html": "/github-api-react-bootstrap/index.html",
+    "static/css/main.be6ebdaa.chunk.css.map": "/github-api-react-bootstrap/static/css/main.be6ebdaa.chunk.css.map",
+    "static/js/2.3227bd49.chunk.js.LICENSE.txt": "/github-api-react-bootstrap/static/js/2.3227bd49.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b38690ab.js",
+    "static/js/2.3227bd49.chunk.js",
+    "static/css/main.be6ebdaa.chunk.css",
+    "static/js/main.aa83db50.chunk.js"
+  ]
+}
